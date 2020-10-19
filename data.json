@@ -1,0 +1,38 @@
+{
+    "data" : [
+        {
+            "pics":"gs.jpg",
+            "hashtag":"#theguys",
+            "like": 2453
+
+        },
+        {
+            "pics":"gibbon.jpg",
+            "hashtag":"#kismaki",
+            "like": 9
+
+        },
+               {
+            "pics":"golira.jpg",
+            "hashtag":"#hat",
+            "like": 1012
+
+        } ,      {
+            "pics":"gutan.jpg",
+            "hashtag":"#fonok",
+            "like": 23653
+
+        },       {
+            "pics":"cigis.jpg",
+            "hashtag":"#alldaymaki",
+            "like": 765
+
+        },
+        {
+            "pics":"riding.jpg",
+            "hashtag":"#riding",
+            "like": 2753
+
+        }
+    ]
+}
